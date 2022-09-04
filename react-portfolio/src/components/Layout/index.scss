@@ -38,19 +38,10 @@
     animation-delay: 1s;
 }
 
-.about-page,
-.contact-page {
-    .text-zone {
-        position: absolute;
-        left: 10%;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 35%;
-        vertical-align: middle;
-        display: table-cell;
-        max-height: 90%;
-
-        h1 {
+.container.about-page,
+.container.contact-page,
+.container.portfolio-page {
+    h1 {
             font-size: 53px;
             font-family: 'Coolvetica';
             color: #ffd700;
@@ -82,9 +73,9 @@
                 margin-left: 20px;
                 opacity: 0.6;
             }
-        }
+    }
 
-        p {
+    p {
             font-size: 13px;
             color: #fff;
             font-family: sans-serif;
@@ -103,9 +94,19 @@
             &:nth-of-type(3) {
                 animation-delay: 1.3s;
             }
-        }
     }
-
+    
+    .text-zone {
+        position: absolute;
+        left: 10%;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 35%;
+        vertical-align: middle;
+        display: table-cell;
+        max-height: 90%;
+    }
+    
     .text-animate-hover {
         &:hover {
             color: #fff;

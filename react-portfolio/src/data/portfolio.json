@@ -1,0 +1,22 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/pokehunt.png",
+            "title": "Pokehunt",
+            "description": "HTML, CSS, Bulma, JavaScript, JQuery",
+            "url": "https://jrj-sys.github.io/PokeHunt/"
+        },
+        {
+            "cover": "/portfolio/books.jpg",
+            "title": "Books of Alexandria",
+            "description": "JavaScript, MySQL, Express.js, Handlebars, Sequelize",
+            "url": "https://cryptic-taiga-66100.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/video-game.jpg",
+            "title": "Video Game Store",
+            "description": "React, Apollo, MongoDB, GraphQL, JWT",
+            "url": "https://stark-tor-14116.herokuapp.com/"
+        }
+    ]
+}

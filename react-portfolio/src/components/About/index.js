@@ -25,9 +25,9 @@ const About = () => {
                             idx={15}
                         />
                     </h1>
-                    <p>Hello, this is test paragraph 1</p>
-                    <p>And this is test paragraph 2</p>
-                    <p>And finally, test paragraph 3</p>
+                    <p>Hello, my name is Stefan Oddsson. I'm a recent graduate of the University of Texas full-stack coding bootcamp. Although I am new to the world of programming, I am eager to learn and get my foot in the door!</p>
+                    <p>I have experience working both in solo and in team environments, and am the type of person who is always looking to improve. I excel when taking coaching and direction and believe I can be a valuable addition to many teams!</p>
+                    <p>When I'm not at my computer, I like to lift weights, play trvia, read nonfiction, and watch my favorite sports teams continuously disappoint me. Thanks for stopping by!</p>
                 </div>
 
                 <div className='stage-cube-cont'>

@@ -42,7 +42,7 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        Sample contact text
+                        Please contact me with any questions or opportunities you may have and I will reply shortly!
                     </p>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>
