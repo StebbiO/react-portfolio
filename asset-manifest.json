@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/StebbiO/react-portfolio/static/css/main.663407f3.css",
+    "main.js": "/StebbiO/react-portfolio/static/js/main.5804cb5f.js",
+    "static/js/787.a2cb61a6.chunk.js": "/StebbiO/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/helvetica-neu.ttf": "/StebbiO/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/StebbiO/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/StebbiO/react-portfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/StebbiO/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/StebbiO/react-portfolio/index.html",
+    "main.663407f3.css.map": "/StebbiO/react-portfolio/static/css/main.663407f3.css.map",
+    "main.5804cb5f.js.map": "/StebbiO/react-portfolio/static/js/main.5804cb5f.js.map",
+    "787.a2cb61a6.chunk.js.map": "/StebbiO/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.663407f3.css",
+    "static/js/main.5804cb5f.js"
+  ]
+}
